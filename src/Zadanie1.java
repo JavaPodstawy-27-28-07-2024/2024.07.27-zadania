@@ -1,4 +1,8 @@
 public class Zadanie1 {
+    /*
+    wygeneruj tablice liczb 0 - 99
+    wyswietl kazda liczbe podzielna przez 4 ktora nie jest zerem
+     */
     public static void main(String[] args) {
         int[] tab = new int[100];
         for(int i = 0; i < 100; i++) {
